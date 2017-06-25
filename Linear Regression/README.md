@@ -6,4 +6,4 @@ The company is trying to decide whether to focus their efforts on their mobile a
 
 Lets analyze the customer data (it's fake,credit card numbers or emails).
 
-<a href='http://nbviewer.jupyter.org/gist/Keerthivasan-A/45c32328927d953ba0f157a1ddfe7775' target="_blank">Project</a>
+<a href="http://nbviewer.jupyter.org/gist/Keerthivasan-A/e760682aa5487426446734ffdf90fa62" target="_blank">Project</a>

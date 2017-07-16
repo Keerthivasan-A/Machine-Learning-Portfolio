@@ -7,4 +7,6 @@
 
 3) K Nearest Neighbor (<a href="http://nbviewer.jupyter.org/gist/Keerthivasan-A/c81fefb9aa3f6b5e4a2c48bbbc2f5a19" target="_blank"> View project </a>)
 
-4) K means clusttering (<a href="http://nbviewer.jupyter.org/gist/Keerthivasan-A/3a791e05d4977be623e057caec83cc7b" target="_blank"> View project </a>)
+4) Decision tree and Random Forest (<a href="http://nbviewer.jupyter.org/gist/Keerthivasan-A/532f15a0e7691196476048cd90c7dd78" target="_blank"> View project </a>)
+
+5) K means clusttering (<a href="http://nbviewer.jupyter.org/gist/Keerthivasan-A/3a791e05d4977be623e057caec83cc7b" target="_blank"> View project </a>)

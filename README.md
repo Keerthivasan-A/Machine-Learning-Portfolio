@@ -21,6 +21,10 @@
 
 10) Gradient boosting algorithm (<a href=""> Inprogress </a>) 
 
-## DEEP LEARNING:
+### DEEP LEARNING:
   
   Deep neural network (<a href="https://www.kaggle.com/keerthi793/digit-recognizer-with-nn" target="_blank"> View project </a>)
+  
+### NLP:
+  
+  Spam mail preprocessed (<a href="http://nbviewer.jupyter.org/gist/Keerthivasan-A/8d7c8de1bbad27190cc026a466aef9b8" target="_blank"> View project </a>)

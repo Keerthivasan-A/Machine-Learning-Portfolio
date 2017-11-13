@@ -20,3 +20,7 @@
 9) K means clusttering (<a href="http://nbviewer.jupyter.org/gist/Keerthivasan-A/e470a26e9c264e81ab1270328c7bdf58" target="_blank"> View project </a>)
 
 10) Gradient boosting algorithm (<a href=""> Inprogress </a>) 
+
+## DEEP LEARNING:
+  
+  Deep neural network (<a href="https://www.kaggle.com/keerthi793/digit-recognizer-with-nn" target="_blank"> View project </a>)

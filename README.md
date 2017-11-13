@@ -7,7 +7,7 @@
 
 3) Decision tree vs Random Forest (<a href="http://nbviewer.jupyter.org/gist/Keerthivasan-A/532f15a0e7691196476048cd90c7dd78" target="_blank"> View project </a>) 
 
-4) Random Forest with feature engineering (<a href=""> Inprogress </a>) 
+4) Random Forest with feature engineering (<a href="http://nbviewer.jupyter.org/gist/Keerthivasan-A/20c678e27ef7772ee4cd286ac04619cb"> View project </a>) 
 
 5) Support vector machine (<a href=""> Inprogress </a>) 
 

@@ -11,7 +11,7 @@
 
 5) Support vector machine (<a href=""> Inprogress </a>) 
 
-6) Naive Bayes (<a href=""> Inprogress </a>)
+6) Naive Bayes (<a href="https://www.kaggle.com/keerthi793/otto-product-classification"> View project </a>)
 
 7) Principal component analysis(<a href=""> Inprogress </a>) 
 

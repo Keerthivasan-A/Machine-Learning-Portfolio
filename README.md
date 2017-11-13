@@ -26,3 +26,5 @@
 ### NLP:
   
   Spam mail preprocessed (<a href="http://nbviewer.jupyter.org/gist/Keerthivasan-A/8d7c8de1bbad27190cc026a466aef9b8" target="_blank"> View project </a>)
+  
+  CountVectorizer and TF-IDF(<a href="http://nbviewer.jupyter.org/gist/Keerthivasan-A/88a461c32ab1a39d6afc3a4a994fa175" target="_blank"> View project </a>)

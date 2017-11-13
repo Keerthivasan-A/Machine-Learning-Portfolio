@@ -9,7 +9,7 @@
 
   Random Forest with feature engineering (<a href="http://nbviewer.jupyter.org/gist/Keerthivasan-A/20c678e27ef7772ee4cd286ac04619cb"> View project </a>) 
 
-  Support vector machine (<a href=""> Inprogress </a>) 
+  Support vector machine (<a href="http://nbviewer.jupyter.org/gist/Keerthivasan-A/fc9a99dc98b8b50abc6d6354171682d2"> View project </a>) 
 
   Naive Bayes (<a href="https://www.kaggle.com/keerthi793/otto-product-classification"> View project </a>)
 

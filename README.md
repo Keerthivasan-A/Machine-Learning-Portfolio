@@ -1,8 +1,6 @@
 
 # Machine learning projects:
 
-  Linear Regression. (<a href="http://nbviewer.jupyter.org/gist/Keerthivasan-A/57e65b159df4de883c1e4ed291d79ae0" target="_blank"> View project </a>)
-
   Logistic Regression. (<a href="http://nbviewer.jupyter.org/gist/Keerthivasan-A/b935c6ceeacf9b77c269186bbcccaaf2" target="_blank"> View project </a>)
 
   Decision tree vs Random Forest (<a href="http://nbviewer.jupyter.org/gist/Keerthivasan-A/532f15a0e7691196476048cd90c7dd78" target="_blank"> View project </a>) 
